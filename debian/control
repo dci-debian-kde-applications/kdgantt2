@@ -17,11 +17,10 @@ Vcs-Git: https://anonscm.debian.org/git/pkg-kde/applications/kdgantt2.git
 Package: libkf5kdgantt2-5
 Architecture: any
 Depends: ${misc:Depends}, ${shlibs:Depends}
-Description: Sieve mail filtering language support for kdepim, library
- This library implements a parser and lexer for Sieve, the mail filtering
- language (RFC 3028).
+Description: A Gantt widget - library
+ This library provides gantt support for KDE applications.
  .
- This package is part of the KDE PIM module.
+ This package provides the shared libraries.
 
 Package: libkf5kdgantt2-dev
 Section: libsdevel
@@ -29,8 +28,7 @@ Architecture: any
 Depends: libkf5kdgantt2-5 (= ${binary:Version}),
          ${misc:Depends},
          ${shlibs:Depends}
-Description: Sieve mail filtering language support for kdepim, development files
- This library implements a parser and lexer for Sieve, the mail filtering
- language (RFC 3028).
+Description: A Gantt widget - devel files
+ This library provides gantt support for KDE applications.
  .
- This package is part of the KDE PIM module.
+ This package provides development files.
