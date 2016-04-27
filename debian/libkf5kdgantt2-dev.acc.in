@@ -6,6 +6,8 @@
 </version>
 
 <headers>
+    /usr/include/KF5/KDGantt2/
+    /usr/include/KF5/kdgantt2/
 </headers>
 
 <libs>
