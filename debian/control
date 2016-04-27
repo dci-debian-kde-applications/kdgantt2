@@ -27,7 +27,8 @@ Section: libsdevel
 Architecture: any
 Depends: libkf5kdgantt2-5 (= ${binary:Version}),
          ${misc:Depends},
-         ${shlibs:Depends}
+         ${shlibs:Depends},
+         qtbase5-dev (>= 5.4.0~)
 Description: A Gantt widget - devel files
  This library provides gantt support for KDE applications.
  .
