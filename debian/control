@@ -23,7 +23,7 @@ Description: A Gantt widget - library
  This package provides the shared libraries.
 
 Package: libkf5kdgantt2-dev
-Section: libsdevel
+Section: libdevel
 Architecture: any
 Depends: libkf5kdgantt2-5 (= ${binary:Version}),
          ${misc:Depends},
