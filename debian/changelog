@@ -1,10 +1,7 @@
-libkf5kdgantt2 (4:16.04.1-1~1.gbp779d0d) UNRELEASED; urgency=medium
-
-  ** SNAPSHOT build @779d0d656b9334ca84aab02167b220a09df28d51 **
+libkf5kdgantt2 (4:16.04.1-1) unstable; urgency=medium
 
   * Initial release.
   * Update acc test
   * Fix wrong section name
-  * UNRELEASED
 
- -- Maximiliano Curia <jenkins@amadeus.gnuservers.com.ar>  Tue, 10 May 2016 20:24:13 +0200
+ -- Maximiliano Curia <maxy@debian.org>  Sat, 21 May 2016 15:27:34 +0200
