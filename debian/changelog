@@ -1,10 +1,8 @@
-libkf5kdgantt2 (4:16.04.2-1~1.gbp9abb97) UNRELEASED; urgency=medium
+libkf5kdgantt2 (4:16.04.2-1) unstable; urgency=medium
 
-  ** SNAPSHOT build @9abb9712cd24d94d120f54e34f496eeb8864d28e **
+  * New upstream release.
 
-  * UNRELEASED
-
- -- Maximiliano Curia <jenkins@gnuservers.com.ar>  Wed, 15 Jun 2016 02:24:18 +0200
+ -- Maximiliano Curia <maxy@debian.org>  Sat, 18 Jun 2016 09:33:25 +0200
 
 libkf5kdgantt2 (4:16.04.1-1) unstable; urgency=medium
 
