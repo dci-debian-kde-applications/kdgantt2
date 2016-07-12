@@ -1,3 +1,11 @@
+libkf5kdgantt2 (4:16.04.3-1~1.gbp1056ba) UNRELEASED; urgency=medium
+
+  ** SNAPSHOT build @1056ba53f1e7dc95358b2fc04d393b6e4b262b05 **
+
+  * UNRELEASED
+
+ -- Maximiliano Curia <jenkins@gnuservers.com.ar>  Tue, 12 Jul 2016 20:24:10 +0200
+
 libkf5kdgantt2 (4:16.04.2-1) unstable; urgency=medium
 
   * New upstream release.
