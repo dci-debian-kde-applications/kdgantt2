@@ -26,9 +26,9 @@ Package: libkf5kdgantt2-dev
 Section: libdevel
 Architecture: any
 Depends: libkf5kdgantt2-5 (= ${binary:Version}),
+         qtbase5-dev (>= 5.4.0~),
          ${misc:Depends},
-         ${shlibs:Depends},
-         qtbase5-dev (>= 5.4.0~)
+         ${shlibs:Depends}
 Description: A Gantt widget - devel files
  This library provides gantt support for KDE applications.
  .
