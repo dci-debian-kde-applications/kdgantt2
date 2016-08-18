@@ -1,10 +1,16 @@
-libkf5kdgantt2 (4:16.04.3-1~1.gbp1056ba) UNRELEASED; urgency=medium
+libkf5kdgantt2 (4:16.08.0-1~1.gbpf51537) UNRELEASED; urgency=medium
 
+  ** SNAPSHOT build @f51537c442dc586365e0bc4a5dd1ad76c7e24ce4 **
+
+  [ Maximiliano Curia ]
   ** SNAPSHOT build @1056ba53f1e7dc95358b2fc04d393b6e4b262b05 **
 
   * UNRELEASED
 
- -- Maximiliano Curia <jenkins@gnuservers.com.ar>  Tue, 12 Jul 2016 20:24:10 +0200
+  [ Automatic packaging ]
+  * Update build-deps and deps with the info from cmake
+
+ -- Automatic packaging <maxy+jenkins@gnuservers.com.ar>  Thu, 18 Aug 2016 20:24:09 +0200
 
 libkf5kdgantt2 (4:16.04.2-1) unstable; urgency=medium
 
