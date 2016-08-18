@@ -5,10 +5,10 @@ Maintainer: Debian/Kubuntu Qt/KDE Maintainers <debian-qt-kde@lists.debian.org>
 Uploaders: Maximiliano Curia <maxy@debian.org>
 Build-Depends: cmake (>= 2.8.12~),
                debhelper (>= 9),
-               extra-cmake-modules (>= 5.19.0~),
+               extra-cmake-modules (>= 5.23.0~),
                libkf5i18n-dev (>= 5.19.0~),
                pkg-kde-tools (>= 0.12),
-               qtbase5-dev (>= 5.4.0~)
+               qtbase5-dev (>= 5.5.0~)
 Standards-Version: 3.9.8
 Homepage: http://pim.kde.org/
 Vcs-Browser: https://anonscm.debian.org/git/pkg-kde/applications/kdgantt2.git
@@ -26,9 +26,9 @@ Package: libkf5kdgantt2-dev
 Section: libdevel
 Architecture: any
 Depends: libkf5kdgantt2-5 (= ${binary:Version}),
+         qtbase5-dev (>= 5.5.0~),
          ${misc:Depends},
-         ${shlibs:Depends},
-         qtbase5-dev (>= 5.4.0~)
+         ${shlibs:Depends}
 Description: A Gantt widget - devel files
  This library provides gantt support for KDE applications.
  .
